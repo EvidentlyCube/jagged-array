@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist",
+		"allowJs": false,
+		"target": "es5",
+		"declaration": true,
+		"module": "umd",
+		"moduleResolution": "node",
+		"strict": true,
+		"strictNullChecks": false,
+		"sourceMap": true
+	},
+	"include": [
+		"./index.ts"
+	]
+}
